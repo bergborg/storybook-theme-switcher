@@ -1,0 +1,12 @@
+.DS_Store
+.build
+.vscode
+.coverage
+.npmrc
+node_modules
+npm-debug.log
+yarn-error.log
+yarn.lock
+package-lock.json
+lib
+dist
